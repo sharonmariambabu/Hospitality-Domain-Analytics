@@ -17,6 +17,8 @@ Tasks Done:
 4) Validating all data.
 5) Creating insightfull Dashboard using appropriate Visualization.
 
+Tools used: Excel, Microsoft Power BI, Power Query
+Skills: ETL(Extract, Transform, Load), Data Cleaning, Data Modeling, Data Analytics 
 
 
 
